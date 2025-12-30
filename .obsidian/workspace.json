@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "1abc1167bc8180e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd13147b4269e83e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1ad21cee1f26590",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b9f348af3bedee8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "951b5c97e565e6a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24618ca777e50ff4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9b72f0520be1bbb4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5b31851b4809dd7c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9adf23c2050a8519",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6eaaa7b1d4f8c18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ed3cc62c31d51af",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0f3fc4224abbe40d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ef2d5560f46c28dc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f666066b3b330530",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c51fe13cb07980f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "24618ca777e50ff4",
+  "lastOpenFiles": [
+    "README.md",
+    "JWT/Unverified JWT Signature.md",
+    "JWT",
+    "BAC/Practice of BAC.md",
+    "BAC/Example of Broken Access Control.md",
+    "BAC/Basic.md",
+    "BAC",
+    "eJPT Preparation/Tools for eJPT.md",
+    "eJPT Preparation/Question Dump Analysis.md",
+    "eJPT Preparation",
+    "Top 10 OWASP - 2025/0x10 Mishandling of Exceptional Conditions.md",
+    "Top 10 OWASP - 2025/0x09 Security Logging & Alerting Failures.md",
+    "Top 10 OWASP - 2025/0x08 Software or Data Integrity Failures.md",
+    "Top 10 OWASP - 2025/0x07 Authentication Failures.md",
+    "Top 10 OWASP - 2025/0x06 Insecure Design.md",
+    "Top 10 OWASP - 2025/0x05 Injection.md",
+    "Top 10 OWASP - 2025/0x04 Cryptographic Failures.md",
+    "Top 10 OWASP - 2025/0x03 Software Supply Chain Failures.md",
+    "Top 10 OWASP - 2025/0x02 Security Misconfiguration.md",
+    "Top 10 OWASP - 2025/0x01 Broken Access Control.md",
+    "Top 10 OWASP - 2025/0x00 Index.md",
+    "Top 10 OWASP - 2025"
+  ]
+}
